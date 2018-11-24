@@ -25,5 +25,5 @@ I liked the course of [UDACITY], it contains much theoretical info while [try.gi
 
 1) What was new to me: I ve got some  useful info about HTML and CSS (tags, pseudo-elements, forms, CSS selectors, inheritance, attributes).
 
-2) What surprised me: Existance of tags like  <del> and <ins>, <sub> and <sup> (I have never used them before).
+2) What surprised me: Existance of tags like  del and ins, sub and sup,  because I have never used them before.
 3) What I intend to use in future : everything!!really, these kbowledge is a must.
