@@ -14,4 +14,4 @@ Also I have got a better understanding of git commits ('one commit per logical c
 I liked the course of [UDACITY], it contains much theoretical info while [try.github.io] helps to get some practice so It was useful to do exercises on the GitHub Learning Lab.
 
 
-[![Screenshot-at-Nov-17-22-11-45.png](https://i.postimg.cc/Y0wk46HH/Screenshot-at-Nov-17-22-11-45.png)](https://postimg.cc/YG8TZm0n)
+[![Screenshot-at-Nov-24-15-53-41.png](https://i.postimg.cc/sD867Z0Y/Screenshot-at-Nov-24-15-53-41.png)](https://postimg.cc/6yrfNTKq)
