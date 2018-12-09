@@ -38,3 +38,10 @@ I liked the course of [UDACITY], it contains much theoretical info while [try.gi
 what was new to me - actually all the Linux commands as I didn`t use them earlier
 what surprised me - interesting and useful info about HTTP 
 what I intend to use in future - general commands, such as ls, cd, pwd, grap, ssh, curl etc.
+
+***
+## Git Collaboration
+
+[![Screenshot-at-Dec-09-10-23-14.png](https://i.postimg.cc/K8Wgc9nc/Screenshot-at-Dec-09-10-23-14.png)](https://postimg.cc/RWc0XLs2)
+
+[![Screenshot-at-Dec-09-12-55-04.png](https://i.postimg.cc/x1BcVX2c/Screenshot-at-Dec-09-12-55-04.png)](https://postimg.cc/rDC8SFzk)
