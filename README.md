@@ -52,3 +52,16 @@ what was new to me - I knew some useful information how to male a commit, what r
 what surprised me - forking is a really intersting feature!
 
 what I intend to use in future - all the commands, including git rebase
+
+***
+## Responsive Web Design
+
+[![Screenshot-at-Dec-10-17-55-43.png](https://i.postimg.cc/1RbQZFwt/Screenshot-at-Dec-10-17-55-43.png)](https://postimg.cc/PNbcWP6s)
+
+[![Screenshot-at-Dec-19-15-39-53.png](https://i.postimg.cc/NjgPhGJF/Screenshot-at-Dec-19-15-39-53.png)](https://postimg.cc/JG2QZ8WC)
+
+what was new to me - I knew some  information about responive design before, but UDACITY course helped me ro refresh my knowledge amd to get new info how to make mobile versions of web sites, info about breakpoints etc.
+
+what surprised me - some flexbox features such as order, flex-flow, flex-basis.
+
+what I intend to use in future - flexbox, grids, responsive design features, media queries.
