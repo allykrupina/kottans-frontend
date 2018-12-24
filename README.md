@@ -3,9 +3,9 @@ This repository is created to reflect the process of my Kottans Front-End Course
 ***
 ## Git and Git hub
 
-The fulfillment of the Task 0 - Git and Git Hub helped me to get new useful knowledge concerning work with Git. 
+The fulfillment of the Task 0 - Git and Git Hub helped me to get new useful knowledge concerning work with Git.
 
-I knew some new commands such - "git tag", - "git cherry-pick", - "git describe", arguments for push and fetch etc. 
+I knew some new commands such - "git tag", - "git cherry-pick", - "git describe", arguments for push and fetch etc.
 
 Most useful info for me was about merging conflicts as it is often problematic especially while working on the project in a team.
 
@@ -36,7 +36,7 @@ I liked the course of [UDACITY], it contains much theoretical info while [try.gi
 [![Screenshot-at-Dec-01-22-43-20.png](https://i.postimg.cc/pd8S95sx/Screenshot-at-Dec-01-22-43-20.png)](https://postimg.cc/WDN8CzRf)
 
 what was new to me - actually all the Linux commands as I didn`t use them earlier
-what surprised me - interesting and useful info about HTTP 
+what surprised me - interesting and useful info about HTTP
 what I intend to use in future - general commands, such as ls, cd, pwd, grap, ssh, curl etc.
 
 ***
@@ -65,3 +65,16 @@ what was new to me - I knew some  information about responive design before, but
 what surprised me - some flexbox features such as order, flex-flow, flex-basis.
 
 what I intend to use in future - flexbox, grids, responsive design features, media queries.
+
+***
+## JS Basics
+[![Screenshot-at-Dec-23-18-04-12.png](https://i.postimg.cc/gkChQkwr/Screenshot-at-Dec-23-18-04-12.png)](https://postimg.cc/GHj9sRx1)
+
+[![Screenshot-at-Dec-24-20-57-06.png](https://i.postimg.cc/k4gRK2HY/Screenshot-at-Dec-24-20-57-06.png)](https://postimg.cc/yJ2Nz8s0)
+
+
+what was new to me - a great structured course of UDACITY helped me to deepen my JS knowledge, I knew many useful info about functions, loops, objects etc. Also there were  a really lot of tasks which helped me to practice theory.
+
+what surprised me - hoisting and scope!
+
+what I intend to use in future - most of the themes highlighted (arrays, loops, objects, functions, variables etc.).
