@@ -78,3 +78,11 @@ what was new to me - a great structured course of UDACITY helped me to deepen my
 what surprised me - hoisting and scope!
 
 what I intend to use in future - most of the themes highlighted (arrays, loops, objects, functions, variables etc.).
+
+***
+## DOM
+[![Screenshot-at-Dec-24-22-07-45.png](https://i.postimg.cc/BvDWR10X/Screenshot-at-Dec-24-22-07-45.png)](https://postimg.cc/Y4pyW0jH)
+
+what was new to me - working with browser events, how to create content.
+what surprised me - Innie vs Outie, tricky .innerText property.
+what I intend to use in future - different methods and properties, such as createElement, querySelector, .removeChild, remove(), .setAttribute()
