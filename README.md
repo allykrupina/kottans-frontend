@@ -81,6 +81,9 @@ what I intend to use in future - most of the themes highlighted (arrays, loops, 
 
 ***
 ## DOM
+
+[![Screenshot-at-Dec-24-15-55-02.png](https://i.postimg.cc/bN6rjjqc/Screenshot-at-Dec-24-15-55-02.png)](https://postimg.cc/xcznKhkt)
+
 [![Screenshot-at-Dec-24-22-07-45.png](https://i.postimg.cc/BvDWR10X/Screenshot-at-Dec-24-22-07-45.png)](https://postimg.cc/Y4pyW0jH)
 
 what was new to me - working with browser events, how to create content.
