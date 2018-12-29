@@ -89,3 +89,34 @@ what I intend to use in future - most of the themes highlighted (arrays, loops, 
 what was new to me - working with browser events, how to create content.
 what surprised me - Innie vs Outie, tricky .innerText property.
 what I intend to use in future - different methods and properties, such as createElement, querySelector, .removeChild, remove(), .setAttribute()
+
+
+###### Practical task
+Reviewed and approved by @AMashoshyna
+(https://github.com/allykrupina/allykrupina.github.io/tree/master/js_dom)
+
+what was new to me - practical task was really useful as it helped me to use knowledge got after theory and I liked to implement a menu with ability to load predefined html content related to own menu using JS methods and properties.
+what surprised me - That it isn`t so difficult as seemed at first)
+what I intend to use in future -  all methods and properties used while completing this task and other, such as createElement, querySelector, .removeChild, remove(), .setAttribute() etc.
+
+
+***
+## A Tiny JS World
+(https://github.com/allykrupina/allykrupina.github.io/tree/master/a-tiny-js-world)
+
+Reviewed and approved by @OleksiyRudenko
+
+what was new to me - everything about OOP)
+what surprised me - interesting task with for beginners in OOP
+what I intend to use in future - Single Responsibility principle and Separation of Concerns principle
+
+***
+## Object Oriented JS
+
+CodeWars progress
+
+[![Screenshot-at-Dec-28-11-48-36.png](https://i.postimg.cc/fyQmZB6P/Screenshot-at-Dec-28-11-48-36.png)](https://postimg.cc/qhQzxXBc)
+
+what was new to me - Objects, Constructors, closures
+what surprised me - OOP is really new to me, so mostly all info surprised me)
+what I intend to use in future - Using this, prototype and new, also closures
