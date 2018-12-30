@@ -113,10 +113,14 @@ what I intend to use in future - Single Responsibility principle and Separation 
 ***
 ## Object Oriented JS
 
-CodeWars progress
+######CodeWars progress
 
 [![Screenshot-at-Dec-28-11-48-36.png](https://i.postimg.cc/fyQmZB6P/Screenshot-at-Dec-28-11-48-36.png)](https://postimg.cc/qhQzxXBc)
 
-what was new to me - Objects, Constructors, closures
-what surprised me - OOP is really new to me, so mostly all info surprised me)
-what I intend to use in future - Using this, prototype and new, also closures
+###### UDACITY course
+
+[![Screenshot-at-Dec-29-16-55-26.png](https://i.postimg.cc/qMHXhgcf/Screenshot-at-Dec-29-16-55-26.png)](https://postimg.cc/CdJf9h6J)
+
+1) what was new to me - Objects, Constructors, closures
+2) what surprised me - OOP is really new to me, so mostly all info surprised me)
+3) what I intend to use in future - Using this, prototype and new, also closures
