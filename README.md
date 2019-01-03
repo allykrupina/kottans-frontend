@@ -1,6 +1,22 @@
 # Kottans-frontend course
 This repository is created to reflect the process of my Kottans Front-End Course tasks completion.
 
+ - [x] 0. Git intro
+ - [x] 1. Linux CLI, and HTTP
+ - [x] 2. Git Collaboration
+ - [x] 3. Front-End Basics
+ - [x] 4. Responsive Web Design
+ - [x] 5. JavaScript Basics
+ - [x] 6. Document Object Model
+ - [x] 7. Building a Tiny JS World (pre-OOP)
+ - [x] 8. Object Oriented JS
+ - [x] 9. OOP Exercise
+ - [ ] 10. Offline Web Applications (Optional)
+ - [x] 11. Memory pair game
+ - [ ] 12. Website Performance Optimization (Optional)
+ - [ ] 13. Friends App
+
+
 ***
 ## Git intro
 
@@ -101,7 +117,7 @@ I liked the course of [UDACITY], it contains much theoretical info while [try.gi
 
 ###### Practical task
 Reviewed and approved by @AMashoshyna
-(https://github.com/allykrupina/allykrupina.github.io/tree/master/js_dom)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/js_dom)
 
 1) What was new to me - practical task was really useful as it helped me to use knowledge got after theory and I liked to implement a menu with ability to load predefined html content related to own menu using JS methods and properties.
 
@@ -114,7 +130,7 @@ Reviewed and approved by @AMashoshyna
 ## Building a Tiny JS World (pre-OOP)
 
 Reviewed and approved by @OleksiyRudenko
-(https://github.com/allykrupina/allykrupina.github.io/tree/master/a-tiny-js-world)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/a-tiny-js-world)
 
 1) What was new to me - everything about OOP).
 2) What surprised me - interesting task with for beginners in OOP.
@@ -138,7 +154,7 @@ Reviewed and approved by @OleksiyRudenko
 ###### Frogger game
 
 Reviewed and approved by @OleksiyRudenko
-(https://github.com/allykrupina/allykrupina.github.io/tree/master/frogger-arcade-game)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/frogger-arcade-game)
 
 1) What was new to me - Var Declarations and Hoisting in ES6,
 2) What surprised me - Block-Level Declarations and Block Binding in Loops
@@ -148,7 +164,7 @@ Reviewed and approved by @OleksiyRudenko
 ## OOP exercise
 
 Reviewed and approved by @OleksiyRudenko
-(https://github.com/allykrupina/allykrupina.github.io/tree/master/a-tiny-js-world)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/a-tiny-js-world)
 
 1) What was new to me - abstract methods, inheritance etc.
 2) What surprised me - that it is sometimes difficult to improve your own code)
@@ -158,7 +174,7 @@ Reviewed and approved by @OleksiyRudenko
 ## Memory Pair Game
 
 Reviewed and approved by @zonzujiro
-(https://github.com/allykrupina/allykrupina.github.io/tree/master/memory-pair-game)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/memory-pair-game)
 
 1) What was new to me - it was a great possibility to combine usage of new knowledge of CSS, HTML and JS.
 2) What surprised me - techniques of sorting arrays, math random, shuffle array.
