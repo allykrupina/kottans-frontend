@@ -147,6 +147,7 @@ Reviewed and approved by @OleksiyRudenko
 ***
 ## OOP exercise
 
+Reviewed and approved by @OleksiyRudenko
 (https://github.com/allykrupina/allykrupina.github.io/tree/master/a-tiny-js-world)
 
 1) What was new to me - abstract methods, inheritance etc.
@@ -165,3 +166,5 @@ Reviewed and approved by @zonzujiro
 
 ***
 ## Friends App
+
+(https://github.com/allykrupina/allykrupina.github.io/tree/master/friends-app)
