@@ -14,7 +14,7 @@ This repository is created to reflect the process of my Kottans Front-End Course
  - [ ] 10. Offline Web Applications (Optional)
  - [x] 11. Memory pair game
  - [ ] 12. Website Performance Optimization (Optional)
- - [ ] 13. Friends App
+ - [x] 13. Friends App
 
 
 ***
@@ -182,5 +182,9 @@ Reviewed and approved by @zonzujiro
 
 ***
 ## Friends App
-
+Reviewed and approved by @zonzujiro
 (https://github.com/allykrupina/allykrupina.github.io/tree/master/friends-app)
+
+1) What was new to me - It`s a really good task to use html, css and js on practice. It was first time I used a kind of randomuser api.
+2) What surprised me - URL API, XMLHttpRequest  all it was new for me.
+3) What I intend to use in future - I will try combine knowledge of received knowledge on practice, taking into attention code clarifying and trying to use ES6.
