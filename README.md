@@ -94,7 +94,7 @@ I liked the course of [UDACITY], it contains much theoretical info while [try.gi
 
 ### Practical task
 Reviewed and approved by @AMashoshyna
-[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/js_dom)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/js_dom) |
 [Demo](https://allykrupina.github.io/js_dom/)
 
 
@@ -107,7 +107,7 @@ Reviewed and approved by @AMashoshyna
 ## Building a Tiny JS World (pre-OOP)
 
 Reviewed and approved by @OleksiyRudenko
-[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/a-tiny-js-world)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/a-tiny-js-world) |
 [Demo](https://allykrupina.github.io/a-tiny-js-world/)
 
 1) What was new to me - everything about OOP).  
@@ -133,7 +133,7 @@ Reviewed and approved by @OleksiyRudenko
 ### Frogger game
 
 Reviewed and approved by @OleksiyRudenko
-[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/frogger-arcade-game)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/frogger-arcade-game) |
 [Demo](https://allykrupina.github.io/frogger-arcade-game/)
 
 1) What was new to me - Var Declarations and Hoisting in ES6.  
@@ -144,7 +144,7 @@ Reviewed and approved by @OleksiyRudenko
 ## OOP exercise
 
 Reviewed and approved by @OleksiyRudenko
-[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/a-tiny-js-world)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/a-tiny-js-world) |
 [Demo](https://allykrupina.github.io/a-tiny-js-world/)
 
 1) What was new to me - abstract methods, inheritance etc.  
@@ -155,7 +155,7 @@ Reviewed and approved by @OleksiyRudenko
 ## Memory Pair Game
 
 Reviewed and approved by @zonzujiro
-[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/memory-pair-game)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/memory-pair-game) |
 [Demo](https://allykrupina.github.io/memory-pair-game/)
 
 1) What was new to me - it was a great possibility to combine usage of new knowledge of CSS, HTML and JS.  
@@ -165,7 +165,7 @@ Reviewed and approved by @zonzujiro
 ***
 ## Friends App
 Reviewed and approved by @zonzujiro
-[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/friends-app)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/friends-app) |
 [Demo](https://allykrupina.github.io/friends-app/)
 
 1) What was new to me - It`s a really good task to use html, css and js on practice. It was first time I used a kind of randomuser api.  
