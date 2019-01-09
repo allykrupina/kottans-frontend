@@ -30,8 +30,9 @@ Also I have got a better understanding of git commits ('one commit per logical c
 
 I liked the course of [UDACITY], it contains much theoretical info while [try.github.io] helps to get some practice so It was useful to do exercises on the GitHub Learning Lab.
 
+[Screenshot](task_git_intro/git-intro.png)
 
-[![Screenshot-at-Nov-24-15-53-41.png](https://i.postimg.cc/sD867Z0Y/Screenshot-at-Nov-24-15-53-41.png)](https://postimg.cc/6yrfNTKq)
+<!-- [![Screenshot-at-Nov-24-15-53-41.png](https://i.postimg.cc/sD867Z0Y/Screenshot-at-Nov-24-15-53-41.png)](https://postimg.cc/6yrfNTKq) -->
 
 ***
 ## Linux CLI, and HTTP
@@ -183,7 +184,7 @@ Reviewed and approved by @zonzujiro
 ***
 ## Friends App
 Reviewed and approved by @zonzujiro
-(https://github.com/allykrupina/allykrupina.github.io/tree/master/friends-app)
+[Code base](https://github.com/allykrupina/allykrupina.github.io/tree/master/friends-app)
 
 1) What was new to me - It`s a really good task to use html, css and js on practice. It was first time I used a kind of randomuser api.
 2) What surprised me - URL API, XMLHttpRequest  all it was new for me.
